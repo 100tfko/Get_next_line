@@ -1,4 +1,4 @@
-# Get_next_line
+# Get_next_line <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VycWdpY2Roc3VkeDFkZnBobjEzM3U0czF6YTVpNjFpN29rbTF4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif" width="30px">
 <p>
   May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.
 </p>
