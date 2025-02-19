@@ -37,7 +37,7 @@ For that, we must learn about static variables and file handling in C.
 
 ## Soft skills:
 <ul>
- This next batch of projects requires some time management, since there are some fixed time limits that must be respected and shared between some projects.
-In that sense, there is some need to optimize time and objectives to adequately manage time and learning, since all the work is self-imposed, the student requires some attention and dedication, taking full responsibility of its own actions.
+ This next batch of projects requires some time management, and adapting to some fixed time limits that must be respected and shared between more projects.
+In that sense, we nee to adequately manage time and learning.
     This project require learning new technical concepts that can be challenging at this level. For that, we must rely on in other students and our ability to search for valid information without getting lost into excessive content.
 </ul>
